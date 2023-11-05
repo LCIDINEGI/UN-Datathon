@@ -17,18 +17,26 @@ _Climate change: global warming is the increase in the Earth's average temperatu
 
 #### Dataset
 
+*denue_12_shp.zip 
+*EMSR703_AOI01_GRA_MONIT01_v2.zip 
+*EMSR703_AOI02_GRA_MONIT01_v2.zip 
+*GeoJSON-file-for-Landslides-Mexico.geojson 
+*mallaGeo.zip 
+*vap-974-1-product.geojson 
+
+
 - National Institute of Statistics and Geography, National Statistical Directory of Economic Units, November 2020. INEGI - DENUE 2020.
-[Download ()](*denue_12_shp.zip)
+[Download (28.8 Mb)](*denue_12_shp.zip)
 - Copernicus Emergency Management Service products. Copernicus_coast 
-[Download ()](*EMSR703_AOI01_GRA_MONIT01_v2.zip)
+[Download (17.5 Mb)](*EMSR703_AOI01_GRA_MONIT01_v2.zip)
 - Copernicus Emergency Management Service products. Copernicus_inland 
-[Download ()](*EMSR703_AOI02_GRA_MONIT01_v2.zip)
+[Download (15.8 Mb)](*EMSR703_AOI02_GRA_MONIT01_v2.zip)
 - The International Charter Space and Major Disasters.Landslides in Urban Areas along the Acapulco Guerrero Coast, México
-[Download ()](*GeoJSON-file-for-Landslides-Mexico.geojson)
+[Download (763 Mb)](*GeoJSON-file-for-Landslides-Mexico.geojson)
 - National Institute of Statistics and Geography. Sets of polygons that fully divide a geographical area with statistical information from the 2020 Population and Housing Census.
-[Download ()](*mallaGeo.zip)
+[Download (6.1 Mb)](*mallaGeo.zip)
 - The International Charter Space and Major Disasters.Flooding in Urban Areas along the Acapulco Guerrero Coast, México
-[Download ()](*vap-974-1-product.geojson)
+[Download (108.1 Mb)](*vap-974-1-product.geojson)
 
 ____________________________________
 
