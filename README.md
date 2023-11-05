@@ -17,14 +17,6 @@ _Climate change: global warming is the increase in the Earth's average temperatu
 
 #### Dataset
 
-*denue_12_shp.zip 
-*EMSR703_AOI01_GRA_MONIT01_v2.zip 
-*EMSR703_AOI02_GRA_MONIT01_v2.zip 
-*GeoJSON-file-for-Landslides-Mexico.geojson 
-*mallaGeo.zip 
-*vap-974-1-product.geojson 
-
-
 - National Institute of Statistics and Geography, National Statistical Directory of Economic Units, November 2020. INEGI - DENUE 2020.
 [Download (28.8 Mb)](*denue_12_shp.zip)
 - Copernicus Emergency Management Service products. Copernicus_coast 
