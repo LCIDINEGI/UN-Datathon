@@ -18,27 +18,27 @@ Goals:
 Dataset
 
 - National Institute of Statistics and Geography, National Statistical Directory of Economic Units, November 2020. INEGI - DENUE 2020.
-*denue_12_shp.zip
+[Download ()](*denue_12_shp.zip)
 
 
 - Copernicus Emergency Management Service products. Copernicus_coast 
-*EMSR703_AOI01_GRA_MONIT01_v2.zip
+[Download ()](*EMSR703_AOI01_GRA_MONIT01_v2.zip)
 
 
 - Copernicus Emergency Management Service products. Copernicus_inland 
-*EMSR703_AOI02_GRA_MONIT01_v2.zip
+[Download ()](*EMSR703_AOI02_GRA_MONIT01_v2.zip)
 
 
 - The International Charter Space and Major Disasters.Landslides in Urban Areas along the Acapulco Guerrero Coast, México
-*GeoJSON-file-for-Landslides-Mexico.geojson
+[Download ()](*GeoJSON-file-for-Landslides-Mexico.geojson
 
 
 - National Institute of Statistics and Geography. Sets of polygons that fully divide a geographical area with statistical information from the 2020 Population and Housing Census.
-*mallaGeo.zip
+[Download ()](*mallaGeo.zip)
 
 
 - The International Charter Space and Major Disasters.Flooding in Urban Areas along the Acapulco Guerrero Coast, México
-*vap-974-1-product.geojson
+[Download ()](*vap-974-1-product.geojson)
 
 ____________________________________
 
