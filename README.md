@@ -24,7 +24,7 @@ _Climate change: global warming is the increase in the Earth's average temperatu
 - Copernicus Emergency Management Service products. Copernicus_inland 
 [Download ()](*EMSR703_AOI02_GRA_MONIT01_v2.zip)
 - The International Charter Space and Major Disasters.Landslides in Urban Areas along the Acapulco Guerrero Coast, México
-[Download ()](*GeoJSON-file-for-Landslides-Mexico.geojson
+[Download ()](*GeoJSON-file-for-Landslides-Mexico.geojson)
 - National Institute of Statistics and Geography. Sets of polygons that fully divide a geographical area with statistical information from the 2020 Population and Housing Census.
 [Download ()](*mallaGeo.zip)
 - The International Charter Space and Major Disasters.Flooding in Urban Areas along the Acapulco Guerrero Coast, México
