@@ -1,4 +1,4 @@
-#### UN Datathon Uruguay 2023
+#### UN Datathon Montevideo Uruguay 2023
 
 Datathon participants will develop innovative data-driven applications, tools or statistical models combining geospatial data with other data sources to help advance the implementation of the Sustainable Development Goals. Research on the SDGs has converged on six transformative entry points – or key transitions – that can have catalytic and multiplier effects across the SDGs and an outsized determinant impact for achieving the Goals.
 
