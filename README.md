@@ -15,6 +15,31 @@ Goals:
 - [Presentation]() : the project was well presented, making the idea more appealing.	
 - [Visualization]() : the data visualization is attractive, innovative, and user-friendly.	
 
+Dataset
+
+- National Institute of Statistics and Geography, National Statistical Directory of Economic Units, November 2020. INEGI - DENUE 2020.
+*denue_12_shp.zip
+
+
+- Copernicus Emergency Management Service products. Copernicus_coast 
+*EMSR703_AOI01_GRA_MONIT01_v2.zip
+
+
+- Copernicus Emergency Management Service products. Copernicus_inland 
+*EMSR703_AOI02_GRA_MONIT01_v2.zip
+
+
+- The International Charter Space and Major Disasters.Landslides in Urban Areas along the Acapulco Guerrero Coast, México
+*GeoJSON-file-for-Landslides-Mexico.geojson
+
+
+- National Institute of Statistics and Geography. Sets of polygons that fully divide a geographical area with statistical information from the 2020 Population and Housing Census.
+*mallaGeo.zip
+
+
+- The International Charter Space and Major Disasters.Flooding in Urban Areas along the Acapulco Guerrero Coast, México
+*vap-974-1-product.geojson
+
 ____________________________________
 
 > Web site event: https://unstats.un.org/bigdata/events/2023/un-datathon/
