@@ -18,17 +18,17 @@ _Climate change: global warming is the increase in the Earth's average temperatu
 #### Dataset
 
 - National Institute of Statistics and Geography, National Statistical Directory of Economic Units, November 2020. INEGI - DENUE 2020.
-[Download (28.8 Mb)](*denue_12_shp.zip)
+[Download (28.8 Mb)](https://drive.google.com/file/d/1NWUEatouJoNyBwJgz9IywjzAryrlcgxr/view?usp=drive_link)
 - Copernicus Emergency Management Service products. Copernicus_coast 
-[Download (17.5 Mb)](*EMSR703_AOI01_GRA_MONIT01_v2.zip)
+[Download (17.5 Mb)](https://drive.google.com/file/d/1DdJmClTosIDImA0gcW_FUTbpZio69Ooq/view?usp=drive_link)
 - Copernicus Emergency Management Service products. Copernicus_inland 
-[Download (15.8 Mb)](*EMSR703_AOI02_GRA_MONIT01_v2.zip)
+[Download (15.8 Mb)](https://drive.google.com/file/d/1gLN9d6xSNlgEF4ovk9lGxj1LC8-WfSIR/view?usp=drive_link)
 - The International Charter Space and Major Disasters.Landslides in Urban Areas along the Acapulco Guerrero Coast, México
-[Download (763 Mb)](*GeoJSON-file-for-Landslides-Mexico.geojson)
+[Download (763 Mb)](https://drive.google.com/file/d/1h1DmeVBW4ZYCt2QQodGN4OIQPpzmKn8A/view?usp=drive_link)
 - National Institute of Statistics and Geography. Sets of polygons that fully divide a geographical area with statistical information from the 2020 Population and Housing Census.
-[Download (6.1 Mb)](*mallaGeo.zip)
+[Download (6.1 Mb)](https://drive.google.com/file/d/1dTGmM41krtcljiNviRWjzi90vSQVSf__/view?usp=drive_link)
 - The International Charter Space and Major Disasters.Flooding in Urban Areas along the Acapulco Guerrero Coast, México
-[Download (108.1 Mb)](*vap-974-1-product.geojson)
+[Download (108.1 Mb)](https://drive.google.com/file/d/13j5CJ6Rq0QEwCdjCxQB-Gv4cP8TcqPjL/view?usp=drive_link)
 
 ____________________________________
 
