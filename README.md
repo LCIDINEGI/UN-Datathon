@@ -12,12 +12,12 @@ _Climate change: global warming is the increase in the Earth's average temperatu
 
 #### Goals:
 
-- [Team Develop]() : that addresses a global or local sustainability challenge.
-- [Implementation](): the solution is realistic and scalable, and it has great potential to be implemented as a permanent service.-
-- [Innovation]() : the team's idea shows 'out of the box' thinking, and the team's solution is groundbreaking.
-- [Methods]() : the technology behind the idea is impressive, and the solution incorporates new methods.	
-- [Presentation]() : the project was well presented, making the idea more appealing.	
-- [Visualization]() : the data visualization is attractive, innovative, and user-friendly.	
+- Team Develop: that addresses a global or local sustainability challenge.
+- Implementation: the solution is realistic and scalable, and it has great potential to be implemented as a permanent service.-
+- Innovation: the team's idea shows 'out of the box' thinking, and the team's solution is groundbreaking.
+- Methods: the technology behind the idea is impressive, and the solution incorporates new methods.	
+- Presentation: the project was well presented, making the idea more appealing.	
+- Visualization: the data visualization is attractive, innovative, and user-friendly.	
 
 #### Big Dataset 
 
