@@ -6,7 +6,7 @@ Datathon participants will develop innovative data-driven applications, tools or
 
 _Climate change: global warming is the increase in the Earth's average temperature. This rise is due to the emission of greenhouse gases into the atmosphere, which act like a blanket trapping the sun's heat. Natural greenhouse gases, such as water vapor, carbon dioxide, and methane, are essential for maintaining the Earth's habitable temperature. However, human activity has increased the concentration of these gases in the atmosphere, leading to a global temperature increase._
 
-#### Diagram 
+#### Architecture diagram
 
 <img src="LCiD_Diagram_Project.png">
 
