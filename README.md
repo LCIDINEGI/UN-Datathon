@@ -6,20 +6,20 @@ Datathon participants will develop innovative data-driven applications, tools or
 
 _Climate change: global warming is the increase in the Earth's average temperature. This rise is due to the emission of greenhouse gases into the atmosphere, which act like a blanket trapping the sun's heat. Natural greenhouse gases, such as water vapor, carbon dioxide, and methane, are essential for maintaining the Earth's habitable temperature. However, human activity has increased the concentration of these gases in the atmosphere, leading to a global temperature increase._
 
-#### Diagram 
+#### Architecture diagram
 
 <img src="LCiD_Diagram_Project.png">
 
 #### Goals:
 
-- [Team Develop]() : that addresses a global or local sustainability challenge.
-- [Implementation](): the solution is realistic and scalable, and it has great potential to be implemented as a permanent service.-
-- [Innovation]() : the team's idea shows 'out of the box' thinking, and the team's solution is groundbreaking.
-- [Methods]() : the technology behind the idea is impressive, and the solution incorporates new methods.	
-- [Presentation]() : the project was well presented, making the idea more appealing.	
-- [Visualization]() : the data visualization is attractive, innovative, and user-friendly.	
+- Team Develop: that addresses a global or local sustainability challenge.
+- Implementation: the solution is realistic and scalable, and it has great potential to be implemented as a permanent service.-
+- Innovation: the team's idea shows 'out of the box' thinking, and the team's solution is groundbreaking.
+- Methods: the technology behind the idea is impressive, and the solution incorporates new methods.	
+- Presentation: the project was well presented, making the idea more appealing.	
+- Visualization: the data visualization is attractive, innovative, and user-friendly.	
 
-#### Dataset
+#### Big Dataset 
 
 - National Institute of Statistics and Geography, National Statistical Directory of Economic Units, November 2020. INEGI - DENUE 2020.
 [Download (28.8 Mb)](https://drive.google.com/file/d/1NWUEatouJoNyBwJgz9IywjzAryrlcgxr/view?usp=drive_link)
