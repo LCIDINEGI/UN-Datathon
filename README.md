@@ -34,6 +34,7 @@ _Climate change: global warming is the increase in the Earth's average temperatu
 - The International Charter Space and Major Disasters.Flooding in Urban Areas along the Acapulco Guerrero Coast, México
 [Download (108.1 Mb)](https://drive.google.com/file/d/13j5CJ6Rq0QEwCdjCxQB-Gv4cP8TcqPjL/view?usp=drive_link)
 
+#### [Story Map](https://arcg.is/189W8D)
 ____________________________________
 
 > Web site event: https://unstats.un.org/bigdata/events/2023/un-datathon/
