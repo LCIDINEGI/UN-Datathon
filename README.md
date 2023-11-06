@@ -8,7 +8,7 @@ _Climate change: global warming is the increase in the Earth's average temperatu
 
 #### Diagram 
 
-<img src="LCiD_Diagram_project.PNG">
+<img src="LCiD_Diagram_Project.png">
 
 #### Goals:
 
